@@ -87,7 +87,7 @@ pip install
 
 - Train or Load a pre-trained model
 - Save the current trained model
-- Ability to Identify organs using a CT-SCAN (** Brain , Liver, Limbs, Heart **)
+- Ability to Identify organs using a CT-SCAN (**Brain , Liver, Limbs, Heart**)
 - Acheiving accuracy of 98% !
 - Responsive status bar
 - Modern Flat-UI 
