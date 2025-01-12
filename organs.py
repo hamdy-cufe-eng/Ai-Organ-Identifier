@@ -10,6 +10,7 @@ from PyQt5.QtWidgets import QLabel,QFrame ,QToolBar, QStatusBar,QMainWindow,QApp
 import torch.nn as nn
 import torch.optim as optim
 
+#Contributions
 # Custom Dataset
 class OrganDataset(Dataset):
     def __init__(self, images, labels, transform=None):
